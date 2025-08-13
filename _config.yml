@@ -1,6 +1,8 @@
-title: Elina Jussila
+#title: Elina Jussila
 logo: /assets/placeholder.jpg 
-description: Tampere University
+description: *Elina Jussila* 
+Tampere University
+elina.jussila@tuni.fi
 #show_downloads: true
 theme: jekyll-theme-minimal
 
