@@ -4,11 +4,9 @@ logo: /assets/placeholder.jpg
 #show_downloads: true
 
 author:
-  # Biographic information
-  name             : "Ellu"
-  bio              : "Short biography for the left-hand sidebar"
-  employer         : "Tampere University"
-  email            : "elina.jussila@tuni.fi" 
+  employer: "Tampere University"
+  email: "elina.jussila@tuni.fi"
+  cv: "/assets/CV_Elina_Jussila.pdf"
 
   
 theme: jekyll-theme-minimal
