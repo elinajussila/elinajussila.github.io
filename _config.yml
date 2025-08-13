@@ -8,7 +8,7 @@ author:
   name             : "Ellu"
   bio              : "Short biography for the left-hand sidebar"
   employer         : "Tampere University"
-  email            : "none@example.org" 
+  email            : "elina.jussila@tuni.fi" 
 
   
 theme: jekyll-theme-minimal
