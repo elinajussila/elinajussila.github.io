@@ -24,8 +24,12 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 <div class="sidebar-info">
+  {% if site.author.worktitle %}
+    <p><strong>{{ site.author.worktitle }}</strong></p>
+  {% endif %}
+  
   {% if site.author.employer %}
-    <p><strong>{{ site.author.employer }}</strong></p>
+    <p>{{ site.author.employer }}</p>
   {% endif %}
 
   {% if site.author.email %}
