@@ -7,7 +7,7 @@ I am an PhD student in Economics at Tampere University and a member of the Finni
    
 ## Working papers
 
-[<ins>**Prescription Behavior of Physicians in the Public and Private Sector**</ins>](https://verotutkimus.fi/verotutkimus/wp-content/uploads/2022/12/FIT-WP5-Prescription-behavior-of-physicians-in-the-public-and-private-sector-201222-3.pdf). FIT Working Paper 5, December 2022 with Kaisa Kotakorpi and Jouko Verho.
+<ins>**[Prescription Behavior of Physicians in the Public and Private Sector](https://verotutkimus.fi/verotutkimus/wp-content/uploads/2022/12/FIT-WP5-Prescription-behavior-of-physicians-in-the-public-and-private-sector-201222-3.pdf)**</ins>. FIT Working Paper 5, December 2022 with Kaisa Kotakorpi and Jouko Verho.
 
 <br>
 
