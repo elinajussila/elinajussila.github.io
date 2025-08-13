@@ -2,6 +2,15 @@ title: Elina Jussila
 logo: /assets/placeholder.jpg 
 description: Elina Jussila
 #show_downloads: true
+
+author:
+  # Biographic information
+  name             : "Ellu"
+  bio              : "Short biography for the left-hand sidebar"
+  employer         : "Tampere University"
+  email            : "none@example.org" 
+
+  
 theme: jekyll-theme-minimal
 
 remote_theme: pages-themes/minimal@v0.2.0
