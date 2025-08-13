@@ -15,7 +15,7 @@ labels:
   - name: bug
     color: b60205
   - name: feature
-    color: 1d47db
+    color: db521d
   - name: good first issue
     color: "5319e7"
 
