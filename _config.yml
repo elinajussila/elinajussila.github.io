@@ -17,3 +17,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 #ohjeet: https://www.youtube.com/watch?v=D9CLhQdLp8w&t=107s
+#formatting: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#supported-color-models
+#minimal theme: https://github.com/pages-themes/minimal/blob/master/_layouts/post.html
