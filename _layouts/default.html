@@ -32,20 +32,18 @@
   {% endif %}
   
   {% if site.author.employer %}
-    <p><strong>{{ site.author.employer }}</strong></p>
+    <p>{{ site.author.employer }}</p>
   {% endif %}
 
   <div class="sidebar-item">
     {% if site.author.email %}
-      <img src="{{ '/assets/icons/mail.svg' | relative_url }}" alt="Email" style="width:16px;height:16px;vertical-align:middle;margin-right:6px;">
-      <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      ✉<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
     {% endif %}
   </div>
 
   <div class="sidebar-item">
     {% if site.author.cv %}
-      <img src="{{ '/assets/icons/document.svg' | relative_url }}" alt="CV" style="width:16px;height:16px;vertical-align:middle;margin-right:6px;">
-      <a href="{{ site.author.cv | relative_url }}" target="_blank">CV</a>
+      ☑ <a href="{{ site.author.cv | relative_url }}" target="_blank">CV</a>
     {% endif %}
   </div>
 </div>
