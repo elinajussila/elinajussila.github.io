@@ -2,7 +2,7 @@
 
 ## About me
 
-I am an PhD student in Economics at Tampere University and a member of the Finnish Centre of Excellence in Tax Systems Research ([FIT](https://verotutkimus.fi/en/home/)). My primary research interests are in public and health economics, with a current focus on the roles of the public sector and public health insurance in healthcare. I'm supervised by professors Kaisa Kotakorpi and Jarkko Harju. During the academic year 2023-2024 I visited University of California, Berkeley.
+I am a PhD student in Economics at Tampere University and a member of the Finnish Centre of Excellence in Tax Systems Research ([FIT](https://verotutkimus.fi/en/home/)). My primary research interests are in public and health economics, with a current focus on the roles of the public sector and public health insurance in healthcare. I am supervised by Professors Kaisa Kotakorpi and Jarkko Harju. During the 2023–2024 academic year, I visited the University of California, Berkeley.
 
 <br>
    
